@@ -1,0 +1,10 @@
+﻿Date,Location,PM2.5_Level,Air_Quality_Category
+20-09-2026,city,65,Good
+21-09-2026,industry,155,Unhealthy
+22-09-2026,industry,155,Unhealthy
+23-09-2026,industry,60,Good
+24-09-2026,city,145,Unhealthy
+25-09-2026,city,100,Moderate
+26-09-2026,city,90,Moderate
+27-09-2026,city,75,Good
+28-09-2026,industry,110,Unhealthy
